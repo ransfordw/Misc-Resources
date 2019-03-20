@@ -1,6 +1,6 @@
 # Troubleshooting Tips
 
-### 1. Google error messages
+### 1. Google your error messages
 
 ### 2. Whiteboard the flow surrounding the error
 
